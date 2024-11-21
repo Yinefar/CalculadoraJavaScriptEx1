@@ -1,0 +1,35 @@
+body{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    
+}
+
+h1{
+    font-family: 'Encode Sans Condensed', sans-serif;
+    margin-top: 30px;
+}
+h3{
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+.calculadora{
+    margin-left: 400px;
+
+}
+
+input[type="button"] {
+
+    margin-top: 10px;
+    background-color: #08c9a2;
+    width: 10%;
+    border: 2px solid #224675;
+    
+}
+
+.custom-input {
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
